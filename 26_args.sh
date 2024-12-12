@@ -1,6 +1,6 @@
 #!/bin/bash 
 
-
+set -x
 #to access the argument
 echo "first argument is $1"
 echo "second argument is $2"
