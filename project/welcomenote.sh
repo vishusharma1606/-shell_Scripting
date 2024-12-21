@@ -4,7 +4,7 @@
 
 function welcomenote {
 	echo "------------"
-	echo "welcome aviz"
+	echo "welcome to home"
 	echo "------------"
 }
 
